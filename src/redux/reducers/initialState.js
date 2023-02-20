@@ -1,4 +1,5 @@
 /*eslint-disable*/
 export default {
-    currentCategory: { categoryName: "Beverages" }
+    currentCategory: { categoryName: "Beverages" },
+    categories: []
 }
