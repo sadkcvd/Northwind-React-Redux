@@ -1,7 +1,10 @@
+import Navi from '../navi/Navi'
+import Dashboard from './Dashboard';
 function App() {
   return (
-    <div className="App">
-      App
+    <div className="container">
+      <Navi />
+      <Dashboard />
     </div>
   );
 }
